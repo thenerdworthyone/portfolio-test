@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Courier+Prime');
 @import url('https://fonts.googleapis.com/css?family=Oooh+Baby');
 
-.small-img {
+small-img {
   width: 200px;   /* or any size you want */
   height: auto;   /* keeps aspect ratio */
 }
