@@ -1,6 +1,95 @@
-<html>
-  <head>
+<head>
+margin: auto;
+padding: 2rem 1rem;
+}
+section {
+margin-bottom: 3rem;
+}
+section h2 {
+border-bottom: 2px solid #ddd;
+padding-bottom: 0.5rem;
+margin-bottom: 1rem;
+}
+.projects {
+display: grid;
+grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+gap: 1.5rem;
+}
+.project {
+background: #fff;
+padding: 1.5rem;
+border-radius: 5px;
+box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.project h3 {
+margin-top: 0;
+}
+footer {
+background: #222;
+color: #fff;
+text-align: center;
+padding: 1rem;
+}
+footer p {
+margin: 0;
+font-size: 0.9rem;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>Your Name</h1>
+<p>Web Developer | Designer | Student</p>
+</header>
 
-    
-  </head>
 
+<nav>
+<a href="#about">About</a>
+<a href="#projects">Projects</a>
+<a href="#contact">Contact</a>
+</nav>
+
+
+<main class="container">
+<section id="about">
+<h2>About Me</h2>
+<p>
+Write a short introduction about yourself here. Mention your skills,
+interests, and what kind of work you enjoy doing.
+</p>
+</section>
+
+
+<section id="projects">
+<h2>Projects</h2>
+<div class="projects">
+<div class="project">
+<h3>Project One</h3>
+<p>Brief description of the project and what technologies you used.</p>
+</div>
+<div class="project">
+<h3>Project Two</h3>
+<p>Brief description of the project and what technologies you used.</p>
+</div>
+<div class="project">
+<h3>Project Three</h3>
+<p>Brief description of the project and what technologies you used.</p>
+</div>
+</div>
+</section>
+
+
+<section id="contact">
+<h2>Contact</h2>
+<p>Email: yourname@example.com</p>
+<p>GitHub: github.com/yourusername</p>
+<p>LinkedIn: linkedin.com/in/yourname</p>
+</section>
+</main>
+
+
+<footer>
+<p>&copy; 2026 Your Name. All rights reserved.</p>
+</footer>
+</body>
+</html>
