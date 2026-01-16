@@ -8,11 +8,9 @@ img {
 
 .introduction{
 text-align: center;
+font-size: 50px;
 }
 
-p{
-color: red;
-}
 
 body {
   backgroud:white;
