@@ -2,6 +2,6 @@
 @import url('https://fonts.googleapis.com/css?family=Oooh+Baby');
 
 .small-img {
-  width: 200px;   /* or any size you want */
-  height: auto;   /* keeps aspect ratio */
+  width: 50px;   /* or any size you want */
+  height: 50px;   /* keeps aspect ratio */
 }
