@@ -5,12 +5,7 @@ text-align: center;
 
 }
 
-body{
-  background:red;
-}
-
-
 img {
-  width: 10%;
-  height: 10%;
+  width: 50px;
+  height: auto;
 }
