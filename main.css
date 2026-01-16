@@ -6,6 +6,10 @@ img {
   height: auto;
 }
 
+.introduction{
+text-align: center;
+}
+
 body {
   backgroud:white;
 }
