@@ -9,9 +9,12 @@ img {
 .introduction{
 text-align: center;
 font-size: 25px;
+border-width: 5px;
+border-style: solid;
+border-color: gold;
 }
 
 
 body {
-  backgroud:white;
+  backgroud: black;
 }
