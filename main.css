@@ -2,8 +2,15 @@
 @import url('https://fonts.googleapis.com/css?family=Oooh+Baby');
 
 body {
-  background-color: rgb(54, 69, 79);
+  background-color:#121212;
+  color:  #E0E0E0;
 }
+
+h2 {
+  color:#6f24a6;
+  text-align: center;
+}
+
 
 
 img {
