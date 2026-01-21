@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Courier+Prime');
 @import url('https://fonts.googleapis.com/css?family=Oooh+Baby');
 
-.container{
-background-color: #121212;
+body {
+  background-color: rgb(54, 69, 79);
 }
+
 
 img {
   width: 500px;
