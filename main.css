@@ -34,3 +34,17 @@ border-color: gold;
 }
 
 
+
+
+.projects {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+
+}
+
+.project {
+  width: 30%;
+  box-sizing: border-box;
+  text-align:center;
+}
