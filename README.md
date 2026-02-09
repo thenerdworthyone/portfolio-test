@@ -1,2 +1,2 @@
 # portfolio-test
-test
+A portfolio for an assignment from school
